@@ -1,4 +1,5 @@
 ## Testnet
+The old testnet is no longer exist. The following testnets we have joined are based eosio(v4.0).  
 
 #### eosiosg Vote-testnet 
 We have joined the eosio.sg test network, and we invite you to join us.  
